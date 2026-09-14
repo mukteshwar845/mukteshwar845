@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mukteshwar845&theme=dark&hide_border=false&show_icons=true" alt="Mukteswar's GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukteswar845&theme=dark&hide_border=false&timezone=Asia%2FKolkata" alt="GitHub Streak" height="195" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mukteshwar845&theme=dark&hide_border=false" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
