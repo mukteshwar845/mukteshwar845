@@ -123,11 +123,11 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mukteshwar845&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="195" />
 </p>
 
-✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"> </p>
 
-⚡ Developer Mindset
+## ⚡ Developer Mindset
 
 <p align="center"> <b>BUILD</b> → <b>LEARN</b> → <b>BREAK</b> → <b>DEBUG</b> → <b>IMPROVE</b> → <b>REPEAT</b> </p>
 
